@@ -1,0 +1,11 @@
+barriers==1.1.0
+bn254==0.1.1
+cffi==1.15.1
+cryptography==41.0.3
+fe25519==1.4.2
+ge25519==1.4.3
+oblivious==7.0.0
+oprf==5.0.0
+parts==1.7.0
+pycparser==2.21
+rbcl==1.0.1
